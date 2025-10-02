@@ -7,9 +7,9 @@ This MATLAB script automates the analysis of basement membrane thickness in reti
 If you find this script helpful, please cite our manuscript:
 
 **Title**: "3D Electron Microscopy Reveals Novel Pathological Ultrastructural Changes in the Retinal Neurovascular Unit in Diabetic Retinal Disease"  
-**Authors**: Mona J. Albargothy, Evan P. Troendle, Ross Laws, Peter Barabas, David H. W. Steel, Michael J. Taggart, Tim M. Curtis  
+**Authors**: Mona J. Albargothy<sup>1</sup>, Evan P. Troendle<sup>2</sup>, Ross Laws<sup>1</sup>, Peter Barabas<sup>2</sup>, David H. W. Steel<sup>1</sup>, Michael J. Taggart<sup>1</sup>, Tim M. Curtis<sup>2</sup>  
 **Journal**: Diabetologia (2025)  
-**DOI**: [doi:xxxx](https://doi.org/xxxx)
+**DOI**: [doi: 10.1007/s00125-025-06554-9](https://doi.org/10.1007/s00125-025-06554-9)
 
 **Affiliations**:  
 1. Biosciences Institute, Newcastle University, Newcastle upon Tyne, UK  
